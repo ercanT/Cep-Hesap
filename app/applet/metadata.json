@@ -1,0 +1,8 @@
+{
+  "name": "CepHesap",
+  "description": "Ticari & Finansal Hesap Makinesi (KDV, İndirim, Kar Oranı)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

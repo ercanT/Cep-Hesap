@@ -1,0 +1,6 @@
+{
+  "name": "CepHesap",
+  "description": "Kişisel finans, bütçe takibi, hesaplama araçları ve birikim yönetim uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
